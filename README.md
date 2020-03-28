@@ -15,3 +15,6 @@ Test digital pictures are in the test_1 folder.
 Test hand-painted images are in the test_single folder.
 
 exporttoHTML folder: Exported .py file to .html
+
+Thank you for checking this package! It will be continuously enriched in the future.
+If you have any questions or thoughts, please email me: ls3459@drexel.edu
